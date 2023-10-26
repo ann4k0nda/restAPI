@@ -16,17 +16,18 @@ Open PostMan
 ```
 Now use the collection name : "restAPI"
 
-# ITEMS
+
+## ITEMS
 
 You can GET all items
 You can GET items by their id
 
-#CATEGORY
+## CATEGORY
 
 You can GET all categories
 You can GET categories by their id
 
-#FORMULAS
+## FORMULAS
 
 You can GET all formulas
 You can GET formulas by their id
